@@ -1,0 +1,10 @@
+export 'package:watch_app/widgets/custom_swipe_button.dart';
+export 'package:watch_app/widgets/add_share_with_person.dart';
+export 'package:watch_app/widgets/custom_text_form_field.dart';
+export 'package:watch_app/widgets/custom_bottom_navigation_bar.dart';
+export 'package:watch_app/widgets/list_ideas.dart';
+export 'package:watch_app/widgets/list_categories.dart';
+export 'package:watch_app/widgets/demo_categorie.dart';
+export 'package:watch_app/widgets/profile_icon.dart';
+export 'package:watch_app/widgets/search_bar.dart';
+export 'package:watch_app/widgets/continuous_container.dart';
