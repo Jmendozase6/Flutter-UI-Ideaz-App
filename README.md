@@ -1,4 +1,4 @@
-# watch_app
+# Ideaz_app
 
 A new Flutter project.
 
