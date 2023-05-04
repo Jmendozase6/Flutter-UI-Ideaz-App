@@ -3,7 +3,6 @@ import 'package:provider/provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:watch_app/provider/dark_theme.dart';
 import 'package:watch_app/routes/app_routes.dart';
-
 import 'package:watch_app/screens/screens.dart';
 import 'package:watch_app/theme/app_theme.dart';
 
